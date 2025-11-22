@@ -38,7 +38,7 @@ This project is a clean and modern **Food Delivery App UI** built using **React 
 - npm install nativewind react-native-css-interop
 - npx expo start
 
-📱 Usage
+## 📱 Usage
 
 - Open the app on Android/iOS using Expo Go
 - Explore Home UI
